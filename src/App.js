@@ -18,6 +18,10 @@ function App() {
         >
           Learn React
         </a>
+        <br>
+        <h3>
+          By Muhammad Tehami Azhar
+        </h3>
       </header>
     </div>
   );
